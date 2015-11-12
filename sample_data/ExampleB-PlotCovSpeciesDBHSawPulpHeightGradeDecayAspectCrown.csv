@@ -1,0 +1,43 @@
+Plot,CoverType,Species,Dbh,Saw,Pulp,Height,Grade,Decay,Aspect,Crown Class
+1,Mixed Hardwood,SM,15,1,4,,3,,N,CD
+1,Mixed Hardwood,SM,16,2,4,,2,,N,D
+1,Mixed Hardwood,RO,20.6,3,4,,1,,N,D
+1,Mixed Hardwood,RO,18.8,2,3,,2,,N,D
+1,Mixed Hardwood,SM,16.6,2,3,,2,,N,CD
+1,Mixed Hardwood,Bass,17.7,3,3,,1,,N,CD
+1,Mixed Hardwood,SM,14.4,1,3,,3,,N,CD
+1,Mixed Hardwood,SM,8.7,0,3,,,,N,I
+1,Mixed Hardwood,RO,17.2,3,3,,3,,N,D
+2,Riparian,GA,14.9,,4,,3,,,D
+2,Riparian,GA,10.9,,3,,,,,CD
+3,Mixed Hardwood,WA,8.2,,3,,,,SW,I
+3,Mixed Hardwood,SM,12.3,1,4,,3,,SW,CD
+3,Mixed Hardwood,RO,17.3,1,4,,2,,SW,CD
+3,Mixed Hardwood,SM,16,2,3,,2,,SW,D
+3,Mixed Hardwood,SM,9.9,,5,,,,SW,CD
+3,Mixed Hardwood,Bass,6.2,,1,,,,SW,I
+3,Mixed Hardwood,Bass,15.5,2,4,,3,,SW,D
+3,Mixed Hardwood,SM,8,,3,,,,SW,CD
+3,Mixed Hardwood,WO,5.3,,1,,,,SW,I
+4,Maple/Basswood,SM,12.1,2,3,,3,,N,CD
+4,Maple/Basswood,SM,17.1,3,3,,1,,N,D
+4,Maple/Basswood,SM,12.3,1,3,,3,,N,CD
+4,Maple/Basswood,SM,14,2,3,,2,,N,CD
+4,Maple/Basswood,WO,15.2,2,3,,2,,N,CD
+4,Maple/Basswood,SM,19.3,2,3,,1,,N,D
+5,Maple/Basswood,WO,16.4,3,3,,2,,N,CD
+5,Maple/Basswood,WO,18.5,2,4,,2,,N,D
+5,Maple/Basswood,SM,18.2,2,4,,1,,N,D
+5,Maple/Basswood,SM,16.2,2,4,,2,,N,CD
+6,Riparian,BH,5.9,1,2,,,,,I
+6,Riparian,Bass,12.9,,4,,3,,,CD
+6,Riparian,Bass,10,1,4,,,,,CD
+6,Riparian,Bass,12.1,,4,,3,,,CD
+6,Riparian,Bass,8.4,,3,,,,,CD
+6,Riparian,WA,9.8,,3,,,,,I
+6,Riparian,BA,13.2,,4,,3,,,CD
+6,Riparian,BA,14,,5,,3,,,CD
+6,Riparian,BA,14.1,,4,,2,,,CD
+6,Riparian,BA,15,2,3,,3,,,CD
+6,Riparian,BA,15.2,3,3,,3,,,CD
+6,Riparian,BA,15.6,2,4,,4,,,CD
